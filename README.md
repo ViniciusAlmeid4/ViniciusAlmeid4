@@ -1,23 +1,6 @@
-### Hi there 👋
-
-<!--
-**ViniciusAlmeid4/ViniciusAlmeid4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi, I'm Vinicius Almeida 👋
 
-- 🔭 I'm a software engineer studant and a full stack developer.
+- 🔭 I'm a **software engineer student** and a **full stack developer**.
 - 🌱 Learning JavaScript, Node.js, Node-Red, SQL and I've used C#, C e PHP to evolve my logic and algorithms skills.
 - ⚡ Most of my recent projects are made inside the company I work for, so I'll not make them public due to sensitive data already inside the projects.
 
@@ -34,7 +17,6 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/)
-
 
 ##
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/vinicius-blumle-silva-planas-de-almeida/)
