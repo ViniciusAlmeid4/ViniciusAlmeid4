@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="50">](https://nodejs.org/)
 [<img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="50">](https://www.javascript.com/)
 [<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="50">](https://www.postgresql.org/)
+[<img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" width="48">](https://getbootstrap.com/)
 
 
 ##
