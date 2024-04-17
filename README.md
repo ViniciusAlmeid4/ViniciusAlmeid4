@@ -13,15 +13,14 @@
 
 ## Technologies Used
 
-- [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24">](https://nodejs.org/) Node.js
-- [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24">](https://www.javascript.com/) JavaScript
-- [<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="24">](https://www.postgresql.org/) PostgreSQL
-- [<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML
-- [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="24">](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS
-- [<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) Bootstrap
-- [<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="24">](https://jquery.com/) jQuery
-- [<img src="https://img.icons8.com/color/48/000000/node-red.png" alt="Node-RED" width="24">](https://nodered.org/) Node-RED
-- [<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="24">](https://www.raspberrypi.org/) Raspberry Pi
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">](https://nodejs.org/)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">](https://www.postgresql.org/)
+[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/)
+[<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="50">](https://jquery.com/)
+[<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" width="50">](https://www.raspberrypi.org/)
 
 ##
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/vinicius-blumle-silva-planas-de-almeida/)
