@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, Sou Yan Fonseca 👋
+### Olá, Sou Vinicius Almeida 👋
 
-- 🔭 Estudante de Engenharia de Software e Pesquisa & Desenvolvimento
+- 🔭 Estudante de Engenharia de Software e Pesquisa & Desenvolvimento ( Nodejs, JQuery, Node-red e Arquitetura de Software )
 - 🌱 Estudando JavaScript, Node.js, SQL e utilizei C#, C e PHP para desenvolver lógica
 
 ##
 [![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAlmeid4&show_icons=true&theme=merko )](https://github.com/ViniciusAlmeid4)
+
+
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlmeid4&layout=compact&theme=merko )](https://github.com/ViniciusAlmeid4)
 
 
