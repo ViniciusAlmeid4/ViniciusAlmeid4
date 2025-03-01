@@ -1,8 +1,8 @@
 ### Hi, I'm Vinicius Almeida 👋
 
 - 🔭 I'm a **software engineer student** and a **full stack developer**.
-- 🌱 Learning JavaScript, Node.js, Node-Red, SQL and I've used C#, C e PHP to evolve my logic and algorithms skills.
-- ⚡ Most of my recent projects are made inside the company I work for, so I'll not make them public due to sensitive data and inside information from inside the projects.
+- 🌱 Currently working with PHP while expanding my expertise in Next.js, JavaScript, Node.js, and SQL. I have experience developing projects with Node.js and use C in college to strengthen my understanding of data structures and algorithms. Additionally, I work with the web stack (HTML, CSS, JavaScript) and frequently use jQuery.
+- ⚡ Most of my recent projects have been developed within the company I work for. Due to the sensitive data and internal information involved, I am unable to make them public.
 
 ##
 [![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAlmeid4&show_icons=true&theme=merko )](https://github.com/ViniciusAlmeid4)
