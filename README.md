@@ -1,11 +1,13 @@
 ### Hi, I'm Vinicius Almeida 👋
 
-- 🔭 I'm a **software engineer student** and a **full stack developer**.
-- 🌱 Currently working with PHP while expanding my expertise in Next.js, JavaScript, Node.js, and SQL. I have experience developing projects with Node.js and use C in college to strengthen my understanding of data structures and algorithms. Additionally, I work with the web stack (HTML, CSS, JavaScript) and frequently use jQuery.
-- ⚡ Most of my recent projects have been developed within the company I work for. Due to the sensitive data and internal information involved, I am unable to make them public.
+- 🔭 I'm a **backend-focused full stack developer**, currently building **Ravyn**, an industrial IoT monitoring platform (edge gateway + cloud SCADA/MES backend).
+- 🌱 Working daily with **Python, FastAPI, PostgreSQL, InfluxDB, and NATS JetStream**, alongside PHP, Node.js, and JavaScript. Also casually learning **Go** for fun.
+- 🎓 Studying Software Engineering at UniCesumar, with a technical background in system development (SENAI).
+- ⚡ Most of my recent professional projects were built within the company I work for. Due to sensitive data and internal information involved, I'm unable to make them public — but feel free to ask me about the architecture.
+- 🌍 Fluent in English (C1 - Cambridge), aiming to work with international, remote-friendly teams.
 
 ##
-[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAlmeid4&show_icons=true&theme=merko )](https://github.com/ViniciusAlmeid4)
+[![Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusAlmeid4&show_icons=true&theme=merko )](https://github.com/ViniciusAlmeid4)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlmeid4&layout=compact&theme=merko )](https://github.com/ViniciusAlmeid4)
@@ -13,9 +15,13 @@
 
 ## Technologies Used
 
+[<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" width="50">](https://fastapi.tiangolo.com/)
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">](https://nodejs.org/)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">](https://www.javascript.com/)
+[<img src="https://img.icons8.com/fluency/48/golang.png" alt="Go" width="50">](https://go.dev/)
 [<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">](https://www.postgresql.org/)
+[<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50">](https://www.docker.com/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/)
