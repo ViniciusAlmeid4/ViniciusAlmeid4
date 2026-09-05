@@ -16,10 +16,10 @@
 ## Technologies Used
 
 [<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" width="50">](https://fastapi.tiangolo.com/)
+[<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50">](https://fastapi.tiangolo.com/)
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">](https://nodejs.org/)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">](https://www.javascript.com/)
-[<img src="https://img.icons8.com/fluency/48/golang.png" alt="Go" width="50">](https://go.dev/)
+[<img src="https://skillicons.dev/icons?i=go" alt="Go" width="50">](https://go.dev/)
 [<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">](https://www.postgresql.org/)
 [<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50">](https://www.docker.com/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
